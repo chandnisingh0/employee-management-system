@@ -86,7 +86,7 @@ Responsive UI tested
 
 Project Demo Videos ------->
 Video 1: Complete Flow (Login, Dashboard, CRUD)
-Video 2: Multiple Address Feature Demo
+Video 2: Responsive
 
 Videos are available in the /videos folder.
 
