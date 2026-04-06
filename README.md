@@ -84,6 +84,12 @@ All CRUD operations tested
 Multiple address feature working properly
 Responsive UI tested
 
+Project Demo Videos ------->
+Video 1: Complete Flow (Login, Dashboard, CRUD)
+Video 2: Multiple Address Feature Demo
+
+Videos are available in the /videos folder.
+
 Bonus Features (if implemented)
 Search employees
 Sorting and pagination
